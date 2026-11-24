@@ -1,0 +1,6 @@
+{
+  "name": "DataGuard AI – Data Quality Monitoring & ETL Testing Platform",
+  "description": "Enterprise Data Quality Monitoring, 9-Rule Validation Engine, Source-to-Target ETL Reconciliation, Test Case Management, Regression Analytics, and Multi-Sheet Excel Reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
